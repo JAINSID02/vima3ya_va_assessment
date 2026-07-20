@@ -1,0 +1,155 @@
+[
+  {
+    "id": "starter-samosa",
+    "name": "Samosa Chaat",
+    "category": "starters",
+    "price": 180,
+    "description": "Crisp pastry parcels stuffed with spiced potato and peas, topped with tangy tamarind and mint chutneys, yogurt, and sev.",
+    "tags": ["vegetarian", "spicy-mild"],
+    "availability": "available"
+  },
+  {
+    "id": "starter-seekh-kebab",
+    "name": "Chicken Seekh Kebab",
+    "category": "starters",
+    "price": 320,
+    "description": "Minced chicken skewers grounded with ginger, garlic, and garam masala, char-grilled in the tandoor.",
+    "tags": ["non-vegetarian", "spicy-medium"],
+    "availability": "available"
+  },
+  {
+    "id": "starter-paneer-tikka",
+    "name": "Paneer Tikka",
+    "category": "starters",
+    "price": 290,
+    "description": "Cubes of cottage cheese marinated in yogurt and spices, grilled with bell peppers and onions.",
+    "tags": ["vegetarian", "spicy-medium"],
+    "availability": "available"
+  },
+  {
+    "id": "starter-vegetable-spring-rolls",
+    "name": "Vegetable Spring Rolls",
+    "category": "starters",
+    "price": 220,
+    "description": "Crispy rolls filled with julienned vegetables, served with a sweet chilli dip.",
+    "tags": ["vegetarian", "vegan", "spicy-mild"],
+    "availability": "out-of-stock"
+  },
+  {
+    "id": "main-butter-chicken",
+    "name": "Butter Chicken",
+    "category": "mains",
+    "price": 450,
+    "description": "Tandoori chicken simmered in a rich tomato and butter gravy, finished with cream.",
+    "tags": ["non-vegetarian", "spicy-mild"],
+    "availability": "available"
+  },
+  {
+    "id": "main-chicken-tikka-masala",
+    "name": "Chicken Tikka Masala",
+    "category": "mains",
+    "price": 460,
+    "description": "Grilled chicken tikka pieces in a spiced onion-tomato masala gravy with a good kick of chilli and garam masala.",
+    "tags": ["non-vegetarian", "spicy-hot"],
+    "availability": "available"
+  },
+  {
+    "id": "main-dal-makhani",
+    "name": "Dal Makhani",
+    "category": "mains",
+    "price": 320,
+    "description": "Black lentils and kidney beans slow-cooked overnight with butter and cream.",
+    "tags": ["vegetarian", "spicy-mild"],
+    "availability": "available"
+  },
+  {
+    "id": "main-vegetable-korma",
+    "name": "Vegetable Korma",
+    "category": "mains",
+    "price": 300,
+    "description": "Mixed seasonal vegetables in a mild, creamy cashew-based gravy.",
+    "tags": ["vegetarian", "spicy-mild"],
+    "availability": "available"
+  },
+  {
+    "id": "main-chana-masala",
+    "name": "Chana Masala",
+    "category": "mains",
+    "price": 260,
+    "description": "Chickpeas simmered in a tangy onion-tomato masala with cumin and dried mango powder. No dairy used.",
+    "tags": ["vegetarian", "vegan", "spicy-medium"],
+    "availability": "available"
+  },
+  {
+    "id": "main-lamb-rogan-josh",
+    "name": "Lamb Rogan Josh",
+    "category": "mains",
+    "price": 520,
+    "description": "Slow-braised lamb in a Kashmiri red chilli and yogurt gravy.",
+    "tags": ["non-vegetarian", "spicy-hot"],
+    "availability": "limited"
+  },
+  {
+    "id": "bread-garlic-naan",
+    "name": "Garlic Naan",
+    "category": "mains",
+    "price": 90,
+    "description": "Leavened tandoori flatbread topped with garlic and coriander.",
+    "tags": ["vegetarian"],
+    "availability": "available"
+  },
+  {
+    "id": "drink-coke",
+    "name": "Coke",
+    "category": "drinks",
+    "price": 80,
+    "description": "Chilled 300ml can of Coca-Cola.",
+    "tags": ["vegan"],
+    "availability": "available"
+  },
+  {
+    "id": "drink-mango-lassi",
+    "name": "Mango Lassi",
+    "category": "drinks",
+    "price": 150,
+    "description": "Yogurt-based mango smoothie, lightly sweetened.",
+    "tags": ["vegetarian"],
+    "availability": "available"
+  },
+  {
+    "id": "drink-masala-chai",
+    "name": "Masala Chai",
+    "category": "drinks",
+    "price": 70,
+    "description": "Spiced milk tea brewed with cardamom, ginger, and cloves.",
+    "tags": ["vegetarian"],
+    "availability": "available"
+  },
+  {
+    "id": "dessert-gulab-jamun",
+    "name": "Gulab Jamun",
+    "category": "desserts",
+    "price": 160,
+    "description": "Deep-fried milk dumplings soaked in rose-cardamom sugar syrup, served warm.",
+    "tags": ["vegetarian"],
+    "availability": "available"
+  },
+  {
+    "id": "starter-fries",
+    "name": "Fries",
+    "category": "starters",
+    "price": 150,
+    "description": "Crispy salted potato fries, served with ketchup.",
+    "tags": ["vegetarian", "vegan"],
+    "availability": "available"
+  },
+  {
+    "id": "dessert-kulfi",
+    "name": "Pistachio Kulfi",
+    "category": "desserts",
+    "price": 180,
+    "description": "Traditional frozen milk dessert flavoured with pistachio and cardamom.",
+    "tags": ["vegetarian"],
+    "availability": "out-of-stock"
+  }
+]
